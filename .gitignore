@@ -1,0 +1,6 @@
+.DS_Store/
+.DS_Store
+pyflo.egg-info/
+env/
+__pycache__/
+dist/
